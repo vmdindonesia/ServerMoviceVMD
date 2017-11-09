@@ -52,5 +52,9 @@
   "VMDBooking": {
     "dataSource": "db",
     "public": true
+  },
+  "container": {
+    "dataSource": "StorageUser",
+    "public": true
   }
 }
