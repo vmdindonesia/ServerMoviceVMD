@@ -9,7 +9,8 @@
     "VMDMasterEmmployeeCredential": 4,
     "VMDBooking": 3,
     "VMDAboutUs": 4,
-    "VMDTeam": 2
+    "VMDTeam": 2,
+    "VMDMenuCredentials": 3
   },
   "models": {
     "User": {},
@@ -44,6 +45,10 @@
     },
     "VMDTeam": {
       "1": "{\"fullname\":\"asda\",\"nophone\":\"sd\",\"position\":\"asd\",\"id\":1}"
+    },
+    "VMDMenuCredentials": {
+      "1": "{\"title\":\"Dasboard\",\"component\":\"HomePage\",\"icons\":\"home\",\"credentials\":\"1\",\"id\":1}",
+      "2": "{\"title\":\"Member\",\"component\":\"MemberPage\",\"icons\":\"md-contact'\",\"credentials\":\"2\",\"id\":2}"
     }
   }
 }

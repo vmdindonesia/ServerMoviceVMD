@@ -56,5 +56,9 @@
   "container": {
     "dataSource": "StorageUser",
     "public": true
+  },
+  "VMDMenuCredentials": {
+    "dataSource": "db",
+    "public": true
   }
 }
